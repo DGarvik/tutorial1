@@ -1,5 +1,6 @@
 ###### Solution for the Fizz Buzz problem #####
-#Description:
+#Description: Prints out numbers between 0 and 100, for multiples of 3 it prints Fuzz
+# and for multiples of 5 it prints Buzz.
 
 
 def fizzbuzz():
