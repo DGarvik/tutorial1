@@ -1,4 +1,5 @@
-####### Solution for the Fizz Buzz problem ######
+###### Solution for the Fizz Buzz problem #####
+#Description:
 
 
 def fizzbuzz():
